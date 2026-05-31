@@ -27,6 +27,10 @@ This commands includes
 <BR>
 
 ## Output
+```
+Name:MOHAMMED JASITH J
+Reg no:212225230180
+```
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/666e295b-6a56-4d96-a49a-8b9d98e2a5cb" />
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/bd64b53b-61f4-4949-b5dc-4b48f7c5a5f8" />
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/d58c2e36-1532-4edb-be77-7be93e129dcb" />
